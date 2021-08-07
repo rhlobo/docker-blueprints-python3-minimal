@@ -1,0 +1,33 @@
+# GIT RELATED
+.git
+.gitignore
+
+# PYTHON RELATED
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# PYTHON ENV
+env
+
+# TEMPORARY FILES
+pip-log.txt
+pip-delete-this-directory.txt
+
+# TEST FILES
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# LOG FILES
+*.log
+
